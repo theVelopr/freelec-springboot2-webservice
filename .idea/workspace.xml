@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1808ba93-c999-4a24-8193-8f1668d883cb" name="Default Changelist" comment="&quot;feat: configuration for .idea was added on .gitignore.&quot;">
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="freelec-springboot2-webservice" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nvDfkBbzvqRXQ0DZMvbbJy63DN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Gradle.HelloResponseDtoTest.Lombok_function_Test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloControllerTest.hello가_리턴된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jojoldu.book.springboot.web.HelloControllerTest.hello가_리턴된다&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloResponseDtoTest.Lombok_function_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest.Lombok_function_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="freelec-springboot2-webservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jojoldu.book.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jojoldu.book.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HelloResponseDtoTest.Lombok_function_Test" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Gradle.HelloControllerTest.hello가_리턴된다" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1808ba93-c999-4a24-8193-8f1668d883cb" name="Default Changelist" comment="" />
+      <created>1612261775916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612261775916</updated>
+      <workItem from="1612261777124" duration="4402000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;feat: configuration for .idea was added on .gitignore.&quot;">
+      <created>1612262469379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612262469379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;feat: configuration for .idea was added on .gitignore.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;feat: configuration for .idea was added on .gitignore.&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="474" key="Github.ShareDialog" timestamp="1612262191578">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="258" y="474" key="Github.ShareDialog/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262191578" />
+    <state x="91" y="283" key="Github.UntrackedFilesDialog" timestamp="1612262221579">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="91" y="283" key="Github.UntrackedFilesDialog/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262221579" />
+    <state width="958" height="302" key="GridCell.Tab.0.bottom" timestamp="1612282339292">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="852" height="302" key="GridCell.Tab.0.bottom/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
+    <state width="958" height="302" key="GridCell.Tab.0.center" timestamp="1612282339292">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="852" height="302" key="GridCell.Tab.0.center/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
+    <state width="958" height="302" key="GridCell.Tab.0.left" timestamp="1612282339292">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="852" height="302" key="GridCell.Tab.0.left/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
+    <state width="958" height="302" key="GridCell.Tab.0.right" timestamp="1612282339292">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="852" height="302" key="GridCell.Tab.0.right/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
+    <state width="958" height="302" key="GridCell.Tab.1.bottom" timestamp="1612281982315">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.1.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612281982315" />
+    <state width="852" height="302" key="GridCell.Tab.1.bottom/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
+    <state width="958" height="302" key="GridCell.Tab.1.center" timestamp="1612281982315">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.1.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612281982315" />
+    <state width="852" height="302" key="GridCell.Tab.1.center/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
+    <state width="958" height="302" key="GridCell.Tab.1.left" timestamp="1612281982315">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.1.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612281982315" />
+    <state width="852" height="302" key="GridCell.Tab.1.left/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
+    <state width="958" height="302" key="GridCell.Tab.1.right" timestamp="1612281982315">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="958" height="302" key="GridCell.Tab.1.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612281982315" />
+    <state width="852" height="302" key="GridCell.Tab.1.right/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
+    <state x="47" y="310" key="Vcs.Push.Dialog.v2" timestamp="1612262472297">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="47" y="310" key="Vcs.Push.Dialog.v2/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262472297" />
+    <state x="111" y="266" width="672" height="678" key="search.everywhere.popup" timestamp="1612262151018">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="111" y="266" width="672" height="678" key="search.everywhere.popup/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262151018" />
+  </component>
+</project>
