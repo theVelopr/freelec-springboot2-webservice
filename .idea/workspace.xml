@@ -16,25 +16,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/service/PostsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/service/PostsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/PostsApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/PostsApiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jojoldu/book/springboot/web/PostsApiControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jojoldu/book/springboot/web/PostsApiControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jojoldu.book.springboot.web.PostsApiControllerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jojoldu.book.springboot.domain.posts.PostsRepositoryTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jojoldu.book.springboot.web.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.jojoldu.book.springboot.web.PostsApiControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jojoldu.book.springboot.domain.posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.jojoldu.book.springboot.domain.posts.PostsRepositoryTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/domain/posts/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/domain/posts/PostsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/service/PostsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/service/PostsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/web/PostsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/web/PostsApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/web/PostsApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jojoldu/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +101,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static.js.app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,6 +109,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static.js.app" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -136,6 +138,25 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest.Lombok_function_Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IndexControllerTest.메인페이지_로딩" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jojoldu.book.springboot.web.IndexControllerTest.메인페이지_로딩&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -222,8 +243,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Gradle.IndexControllerTest.메인페이지_로딩" />
         <item itemvalue="Gradle.PostsRepositoryTest.BaseTimeEntity_등록" />
-        <item itemvalue="Gradle.PostsApiControllerTest.Posts_수정된다" />
         <item itemvalue="Gradle.PostsApiControllerTest.Posts_등록된다" />
         <item itemvalue="Gradle.HelloResponseDtoTest.Lombok_function_Test" />
       </list>
@@ -237,7 +258,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612261775916</updated>
-      <workItem from="1612261777124" duration="8706000" />
+      <workItem from="1612261777124" duration="10679000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;feat: configuration for .idea was added on .gitignore.&quot;">
       <created>1612262469379</created>
@@ -265,45 +286,45 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="91" y="283" key="Github.UntrackedFilesDialog/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262221579" />
-    <state width="958" height="302" key="GridCell.Tab.0.bottom" timestamp="1612286659132">
+    <state width="958" height="302" key="GridCell.Tab.0.bottom" timestamp="1612288681553">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612286659132" />
+    <state width="958" height="302" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681553" />
     <state width="852" height="302" key="GridCell.Tab.0.bottom/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.center" timestamp="1612286659131">
+    <state width="958" height="302" key="GridCell.Tab.0.center" timestamp="1612288681553">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612286659131" />
+    <state width="958" height="302" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681553" />
     <state width="852" height="302" key="GridCell.Tab.0.center/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.left" timestamp="1612286659131">
+    <state width="958" height="302" key="GridCell.Tab.0.left" timestamp="1612288681553">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612286659131" />
+    <state width="958" height="302" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681553" />
     <state width="852" height="302" key="GridCell.Tab.0.left/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.right" timestamp="1612286659132">
+    <state width="958" height="302" key="GridCell.Tab.0.right" timestamp="1612288681553">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612286659132" />
+    <state width="958" height="302" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681553" />
     <state width="852" height="302" key="GridCell.Tab.0.right/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.1.bottom" timestamp="1612286637747">
+    <state width="958" height="302" key="GridCell.Tab.1.bottom" timestamp="1612288681555">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.1.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612286637747" />
+    <state width="958" height="302" key="GridCell.Tab.1.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681555" />
     <state width="852" height="302" key="GridCell.Tab.1.bottom/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
-    <state width="958" height="302" key="GridCell.Tab.1.center" timestamp="1612286637746">
+    <state width="958" height="302" key="GridCell.Tab.1.center" timestamp="1612288681554">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.1.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612286637746" />
+    <state width="958" height="302" key="GridCell.Tab.1.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681554" />
     <state width="852" height="302" key="GridCell.Tab.1.center/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
-    <state width="958" height="302" key="GridCell.Tab.1.left" timestamp="1612286637746">
+    <state width="958" height="302" key="GridCell.Tab.1.left" timestamp="1612288681554">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.1.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612286637746" />
+    <state width="958" height="302" key="GridCell.Tab.1.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681554" />
     <state width="852" height="302" key="GridCell.Tab.1.left/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
-    <state width="958" height="302" key="GridCell.Tab.1.right" timestamp="1612286637747">
+    <state width="958" height="302" key="GridCell.Tab.1.right" timestamp="1612288681554">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.1.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612286637747" />
+    <state width="958" height="302" key="GridCell.Tab.1.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612288681554" />
     <state width="852" height="302" key="GridCell.Tab.1.right/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065877" />
     <state x="47" y="310" key="Vcs.Push.Dialog.v2" timestamp="1612262472297">
       <screen x="0" y="23" width="1792" height="1097" />
