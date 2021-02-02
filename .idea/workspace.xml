@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1808ba93-c999-4a24-8193-8f1668d883cb" name="Default Changelist" comment="&quot;feat: configuration for .idea was added on .gitignore.&quot;">
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jojoldu/book/springboot/web/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-    </list>
+    <list default="true" id="1808ba93-c999-4a24-8193-8f1668d883cb" name="Default Changelist" comment="&quot;feat: configuration for .idea was added on .gitignore.&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612261775916</updated>
-      <workItem from="1612261777124" duration="4402000" />
+      <workItem from="1612261777124" duration="4918000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;feat: configuration for .idea was added on .gitignore.&quot;">
       <created>1612262469379</created>
@@ -196,25 +190,25 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="91" y="283" key="Github.UntrackedFilesDialog/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612262221579" />
-    <state width="958" height="302" key="GridCell.Tab.0.bottom" timestamp="1612282339292">
+    <state width="958" height="302" key="GridCell.Tab.0.bottom" timestamp="1612282350905">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="958" height="302" key="GridCell.Tab.0.bottom/0.23.3008.1669@0.23.3008.1669" timestamp="1612282350905" />
     <state width="852" height="302" key="GridCell.Tab.0.bottom/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.center" timestamp="1612282339292">
+    <state width="958" height="302" key="GridCell.Tab.0.center" timestamp="1612282350905">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="958" height="302" key="GridCell.Tab.0.center/0.23.3008.1669@0.23.3008.1669" timestamp="1612282350905" />
     <state width="852" height="302" key="GridCell.Tab.0.center/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.left" timestamp="1612282339292">
+    <state width="958" height="302" key="GridCell.Tab.0.left" timestamp="1612282350904">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="958" height="302" key="GridCell.Tab.0.left/0.23.3008.1669@0.23.3008.1669" timestamp="1612282350904" />
     <state width="852" height="302" key="GridCell.Tab.0.left/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
-    <state width="958" height="302" key="GridCell.Tab.0.right" timestamp="1612282339292">
+    <state width="958" height="302" key="GridCell.Tab.0.right" timestamp="1612282350905">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state width="958" height="302" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612282339292" />
+    <state width="958" height="302" key="GridCell.Tab.0.right/0.23.3008.1669@0.23.3008.1669" timestamp="1612282350905" />
     <state width="852" height="302" key="GridCell.Tab.0.right/1792.309.1194.811/0.23.1792.1097@0.23.1792.1097" timestamp="1612264065876" />
     <state width="958" height="302" key="GridCell.Tab.1.bottom" timestamp="1612281982315">
       <screen x="0" y="23" width="3008" height="1669" />
